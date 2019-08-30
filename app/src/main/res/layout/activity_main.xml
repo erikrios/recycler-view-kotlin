@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.recyclerview.widget.RecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:apps="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/club_list"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    apps:layout_constraintBottom_toBottomOf="parent"
+    apps:layout_constraintLeft_toLeftOf="parent"
+    apps:layout_constraintRight_toRightOf="parent"
+    apps:layout_constraintTop_toTopOf="parent" />
